@@ -26,7 +26,7 @@ public class LearningCurve : MonoBehaviour
         nicerHero = jamesBond;
     }
 
-    //Nicerhero goes lost because the address in memory becoems the same as JamesBond, 2 names indicate the same address location in memory.
+    //Nicerhero goes lost because the address in memory becomes the same as JamesBond, 2 names indicate the same address location in memory.
     //nicerHero = jamesBond
 
     // Update is called once per frame
